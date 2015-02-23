@@ -1,0 +1,228 @@
+﻿img.bg {
+  /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 1024px;
+	
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+	
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+@media screen and (max-width: 1024px) { /* Specific to this particular image */
+  img.bg {
+    left: 50%;
+    margin-left: -512px;   /* 50% */
+  }
+}
+.ofset-30 {
+    padding-top: 60px;
+}
+.centered {
+  display: table-cell;
+  vertical-align: middle;
+    margin: auto; 
+}
+body {
+    background-color: #fafafa;
+    background-color: rgba(250, 250, 250, 1);
+}
+
+.headerWrapper, .logoBackground {
+    background-color: #333333;
+    background-color: rgba(51, 51, 51, 1);
+}
+
+.LogoImage {
+    max-width: 1600px;
+    margin: 0 auto !important;
+    float: none !important;
+    width: 100%;
+}
+.ContentWrapper {
+    background-color: #fefefe;
+    background-color: rgba(254, 254, 254, 1);
+    max-width: 62.5em;
+    margin:auto;
+   border: 1px solid #e1e1e1;
+   margin-bottom: 50px;
+}
+
+.footer, footer {
+    width: 100%;
+    z-index: 100;
+}
+footer{
+    color: rgba(253, 253, 253, 1);
+}
+footer > hr{
+    margin: 0 !important;
+}
+.bottom{
+    bottom: 0;
+    left: 0;
+    position:fixed;
+}
+
+video#bgvid {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    -moz-min-width: 100%;
+    -ms-min-width: 100%;
+    -o-min-width: 100%;
+    -webkit-min-width: 100%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-background-size: cover;
+    background-size: cover;
+}
+
+.white-transparant {
+    background-color: white;
+    -ms-opacity: 0.6;
+    opacity: 0.6;
+}
+
+img {
+    -ms-border-radius: 16px;
+    border-radius: 16px;
+}
+
+#overlay {
+    position:absolute;
+    background:#fff;
+    -ms-opacity:0.2;
+    opacity:0.2;   
+    z-index:100;
+    display:none;
+}
+#MainContent{
+    margin-bottom: 50px;
+}
+
+#MainContent_MainMap{
+    position: relative;
+    width: 637px !important;
+    height: 689px !important;
+    background-image: url(../img/Test.gif)
+}
+#MainContent_Room_1{
+    position:absolute;
+    top:34px;
+    left: 51px;
+    height: 177px;
+    width: 133px;
+}
+#MainContent_Room_2{
+    position:absolute;
+    top:34px;
+    left: 186px;
+    height:180px;
+    width:143px;
+}
+#MainContent_Room_3{
+    position:absolute;
+    top:34px;
+    left: 321px;
+    height:180px;
+    width:135px;
+}
+#MainContent_Room_4{
+    position:absolute;
+    top:34px;
+    left:456px;
+    height:131px;
+    width:166px;
+}
+#MainContent_Room_5{
+    position:absolute;
+    top:201px;
+    left:491px;
+    height:172px;
+    width:130px;
+}
+#MainContent_Room_6{
+    position:absolute;
+    top:482px;
+    left:488px;
+    height:173px;
+    width:132px;
+}
+#MainContent_Room_7{
+    position:absolute;
+    top:458px;
+    left:322px;
+    height:176px;
+    width:129px;
+}
+#MainContent_Room_8{
+    position:absolute;
+    top:282px;
+    left:322px;
+    height: 175px;
+    width: 132px;
+}
+#MainContent_Room_9{
+    position:absolute;
+    top:246px;
+    left:49px;
+    height: 130px;
+    width: 177px;
+}
+#MainContent_Studio{
+    position:absolute;
+    top:374px;
+    left:491px;
+    height:107px;
+    width:128px;
+}
+#RelaxMainContent_RoomLarge{
+    position:absolute;
+    top:382px;
+    left:9px;
+    height:159px;
+    width:310px;
+}
+#RelaxMainContent_RoomSmall{
+    position:absolute;
+    top:541px;
+    left:9px;
+    height:100px;
+    width:310px;
+}
+.Room:hover, .selected {
+    background-color: #4cff00;
+    background-image: none !important;
+    -ms-opacity: 0.6;
+    opacity: 0.6;
+}
+
+.taken {
+    background-color: #ff0000;
+    background-image: none !important;
+    -ms-opacity: 0.6;
+    opacity: 0.6;
+}
+.H1Stripe{
+    line-height: 20px;
+    text-align: center;
+    border-top: 1px solid #aeaeae;
+    padding-top: 10px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+.H1Stripe > span{
+    position: relative;
+    padding: 0 30px;
+    top: -26px;
+    background-color: rgba(253, 253, 253, 1);
+
+}

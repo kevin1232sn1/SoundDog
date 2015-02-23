@@ -1,0 +1,189 @@
+G:\Final working SoundDog\Final working SoundDog\bin\Final working SoundDog.dll.config
+G:\Final working SoundDog\Final working SoundDog\bin\Final working SoundDog.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Final working SoundDog.pdb
+G:\Final working SoundDog\Final working SoundDog\bin\Antlr3.Runtime.dll
+G:\Final working SoundDog\Final working SoundDog\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Final working SoundDog\Final working SoundDog\bin\AspNet.ScriptManager.jQuery.dll
+G:\Final working SoundDog\Final working SoundDog\bin\EntityFramework.dll
+G:\Final working SoundDog\Final working SoundDog\bin\EntityFramework.SqlServer.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Google.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Web.Infrastructure.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Newtonsoft.Json.dll
+G:\Final working SoundDog\Final working SoundDog\bin\Owin.dll
+G:\Final working SoundDog\Final working SoundDog\bin\System.Web.Helpers.dll
+G:\Final working SoundDog\Final working SoundDog\bin\System.Web.Mvc.dll
+G:\Final working SoundDog\Final working SoundDog\bin\System.Web.Optimization.dll
+G:\Final working SoundDog\Final working SoundDog\bin\System.Web.Providers.dll
+G:\Final working SoundDog\Final working SoundDog\bin\System.Web.Razor.dll
+G:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.Deployment.dll
+G:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.dll
+G:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.Razor.dll
+G:\Final working SoundDog\Final working SoundDog\bin\WebGrease.dll
+G:\Final working SoundDog\Final working SoundDog\bin\System.Web.Optimization.xml
+G:\Final working SoundDog\Final working SoundDog\bin\Antlr3.Runtime.pdb
+G:\Final working SoundDog\Final working SoundDog\bin\Newtonsoft.Json.xml
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Final working SoundDog\Final working SoundDog\bin\System.Web.Razor.xml
+G:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.xml
+G:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.Deployment.xml
+G:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.Razor.xml
+G:\Final working SoundDog\Final working SoundDog\bin\System.Web.Helpers.xml
+G:\Final working SoundDog\Final working SoundDog\bin\System.Web.Mvc.xml
+G:\Final working SoundDog\Final working SoundDog\bin\EntityFramework.xml
+G:\Final working SoundDog\Final working SoundDog\bin\EntityFramework.SqlServer.xml
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.xml
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.xml
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Google.xml
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Final working SoundDog\Final working SoundDog\obj\Release\Final working SoundDog.csprojResolveAssemblyReference.cache
+G:\Final working SoundDog\Final working SoundDog\obj\Release\Final working SoundDog.dll
+G:\Final working SoundDog\Final working SoundDog\obj\Release\Final working SoundDog.pdb
+D:\Final working SoundDog\Final working SoundDog\bin\Final working SoundDog.dll.config
+D:\Final working SoundDog\Final working SoundDog\bin\Final working SoundDog.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Final working SoundDog.pdb
+D:\Final working SoundDog\Final working SoundDog\bin\Antlr3.Runtime.dll
+D:\Final working SoundDog\Final working SoundDog\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Final working SoundDog\Final working SoundDog\bin\AspNet.ScriptManager.jQuery.dll
+D:\Final working SoundDog\Final working SoundDog\bin\EntityFramework.dll
+D:\Final working SoundDog\Final working SoundDog\bin\EntityFramework.SqlServer.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Google.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Web.Infrastructure.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Newtonsoft.Json.dll
+D:\Final working SoundDog\Final working SoundDog\bin\Owin.dll
+D:\Final working SoundDog\Final working SoundDog\bin\System.Web.Helpers.dll
+D:\Final working SoundDog\Final working SoundDog\bin\System.Web.Mvc.dll
+D:\Final working SoundDog\Final working SoundDog\bin\System.Web.Optimization.dll
+D:\Final working SoundDog\Final working SoundDog\bin\System.Web.Providers.dll
+D:\Final working SoundDog\Final working SoundDog\bin\System.Web.Razor.dll
+D:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.Deployment.dll
+D:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.dll
+D:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.Razor.dll
+D:\Final working SoundDog\Final working SoundDog\bin\WebGrease.dll
+D:\Final working SoundDog\Final working SoundDog\bin\System.Web.Optimization.xml
+D:\Final working SoundDog\Final working SoundDog\bin\Antlr3.Runtime.pdb
+D:\Final working SoundDog\Final working SoundDog\bin\Newtonsoft.Json.xml
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Final working SoundDog\Final working SoundDog\bin\System.Web.Razor.xml
+D:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.xml
+D:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.Deployment.xml
+D:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.Razor.xml
+D:\Final working SoundDog\Final working SoundDog\bin\System.Web.Helpers.xml
+D:\Final working SoundDog\Final working SoundDog\bin\System.Web.Mvc.xml
+D:\Final working SoundDog\Final working SoundDog\bin\EntityFramework.xml
+D:\Final working SoundDog\Final working SoundDog\bin\EntityFramework.SqlServer.xml
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.xml
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.xml
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Google.xml
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Final working SoundDog\Final working SoundDog\obj\Release\Final working SoundDog.csprojResolveAssemblyReference.cache
+D:\Final working SoundDog\Final working SoundDog\obj\Release\Final working SoundDog.dll
+D:\Final working SoundDog\Final working SoundDog\obj\Release\Final working SoundDog.pdb
+F:\Final working SoundDog\Final working SoundDog\bin\Final working SoundDog.dll.config
+F:\Final working SoundDog\Final working SoundDog\bin\Final working SoundDog.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Final working SoundDog.pdb
+F:\Final working SoundDog\Final working SoundDog\bin\Antlr3.Runtime.dll
+F:\Final working SoundDog\Final working SoundDog\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Final working SoundDog\Final working SoundDog\bin\AspNet.ScriptManager.jQuery.dll
+F:\Final working SoundDog\Final working SoundDog\bin\EntityFramework.dll
+F:\Final working SoundDog\Final working SoundDog\bin\EntityFramework.SqlServer.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Google.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Web.Infrastructure.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Newtonsoft.Json.dll
+F:\Final working SoundDog\Final working SoundDog\bin\Owin.dll
+F:\Final working SoundDog\Final working SoundDog\bin\System.Web.Helpers.dll
+F:\Final working SoundDog\Final working SoundDog\bin\System.Web.Mvc.dll
+F:\Final working SoundDog\Final working SoundDog\bin\System.Web.Optimization.dll
+F:\Final working SoundDog\Final working SoundDog\bin\System.Web.Providers.dll
+F:\Final working SoundDog\Final working SoundDog\bin\System.Web.Razor.dll
+F:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.Deployment.dll
+F:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.dll
+F:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.Razor.dll
+F:\Final working SoundDog\Final working SoundDog\bin\WebGrease.dll
+F:\Final working SoundDog\Final working SoundDog\bin\System.Web.Optimization.xml
+F:\Final working SoundDog\Final working SoundDog\bin\Antlr3.Runtime.pdb
+F:\Final working SoundDog\Final working SoundDog\bin\Newtonsoft.Json.xml
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Final working SoundDog\Final working SoundDog\bin\System.Web.Razor.xml
+F:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.xml
+F:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.Deployment.xml
+F:\Final working SoundDog\Final working SoundDog\bin\System.Web.Webpages.Razor.xml
+F:\Final working SoundDog\Final working SoundDog\bin\System.Web.Helpers.xml
+F:\Final working SoundDog\Final working SoundDog\bin\System.Web.Mvc.xml
+F:\Final working SoundDog\Final working SoundDog\bin\EntityFramework.xml
+F:\Final working SoundDog\Final working SoundDog\bin\EntityFramework.SqlServer.xml
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.xml
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.xml
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Google.xml
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Final working SoundDog\Final working SoundDog\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Final working SoundDog\Final working SoundDog\obj\Release\Final working SoundDog.csprojResolveAssemblyReference.cache
+F:\Final working SoundDog\Final working SoundDog\obj\Release\Final working SoundDog.dll
+F:\Final working SoundDog\Final working SoundDog\obj\Release\Final working SoundDog.pdb

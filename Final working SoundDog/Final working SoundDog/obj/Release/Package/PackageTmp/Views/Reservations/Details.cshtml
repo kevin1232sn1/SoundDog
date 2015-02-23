@@ -1,0 +1,82 @@
+﻿@model Final_working_SoundDog.Models.Reservation
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Reservation</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExtraInfo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExtraInfo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DateReservationCreated)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DateReservationCreated)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ReservationActive)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ReservationActive)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ReservationChecked)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ReservationChecked)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AspNetUser.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AspNetUser.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Room.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Room.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Time.StartTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Time.StartTime)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

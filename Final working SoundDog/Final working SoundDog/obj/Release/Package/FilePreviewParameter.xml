@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="sounddog" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Final\ working\ SoundDog\\Final\ working\ SoundDog\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^D:\\Final\ working\ SoundDog\\Final\ working\ SoundDog\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source= mssql1.gear.host\sounddogInitial Catalog=sounddog;User ID=sounddog;Password=pG8-Iq)j*z8J" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Final\ working\ SoundDog\\Final\ working\ SoundDog\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="Entities-Web.config Connection String" description="" value="metadata=res://*/Models.SoundDogModel.csdl|res://*/Models.SoundDogModel.ssdl|res://*/Models.SoundDogModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;Data Source= mssql1.gear.host\sounddogInitial Catalog=sounddog;User ID=sounddog;Password=pG8-Iq)j*z8J&quot;" tags="">
+    <parameterEntry kind="XmlFile" scope="D:\\Final\ working\ SoundDog\\Final\ working\ SoundDog\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Entities']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,78 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Final_working_SoundDog.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - SoundDog Breda | Meer dan alleen oefenruimtes</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css" rel="stylesheet">
+    <link href="~\Content/foundation.min.css" rel="stylesheet" />
+    <link href="~\Content/custom.css" rel="stylesheet" />
+    <link href="~\Content/foundation-datepicker.css" rel="stylesheet" />
+
+</head>
+<body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="http://cdn.foundation5.zurb.com/foundation.js"></script>
+    <script src="Scripts/foundation-datepicker.js"></script>
+    <form runat="server">
+        <div class="headerWrapper bottom footer">
+            <nav class="top-bar row" data-topbar role="navigation">
+                <ul class="title-area">
+                    <li class="name">
+                        <h1><a href="index.html">Sound Dog</a></h1>
+                    </li>
+                    <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+                    <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+                </ul>
+                <section class="top-bar-section">
+                    <ul>
+                        <li><a runat="server" href="Welkom.aspx">Welkom</a></li>
+                        <li><a runat="server" href="Prijzen.aspx">Prijzen</a></li>
+                        <li><a runat="server" href="~/Reserveren.aspx">Reserveren</a></li>
+                        <li><a runat="server" href="~/Contact.aspx">Contact</a></li>
+                    </ul>
+                    <%--           <asp:LoginView runat="server" ViewStateMode="Disabled">
+                        <AnonymousTemplate>
+                            <ul class="right">
+                                <li><a runat="server" href="~/Account/Register">Registreer</a></li>
+                                <li><a runat="server" href="~/Account/Login">Log in</a></li>
+                            </ul>
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                            <ul class="right">
+                                <li><a runat="server" href="~/Account/Manage" title="Manage your account">Hello, <%: Context.User.Identity.GetUserName()  %> !</a></li>
+                                <li>
+                                    <asp:LoginStatus runat="server" LogoutAction="Redirect" LogoutText="Log off" LogoutPageUrl="~/" OnLoggingOut="Unnamed_LoggingOut" />
+                                </li>
+                            </ul>
+                        </LoggedInTemplate>
+                    </asp:LoginView>--%>
+                </section>
+            </nav>
+                      
+                <footer class="row">
+                    <hr />
+                    &copy; <%: DateTime.Now.Year %> - Sound Dog
+                </footer>
+        </div>  
+        <div class="ContentWrapper">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+
+        </div>
+    </form>
+
+    <script>
+        $(document).foundation();
+
+    </script>
+</body>
+</html>
